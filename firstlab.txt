@@ -1,1 +1,1 @@
-Hello this is my first git lab and in this lab we ahve learnt set of commands that can be used in linux opertaing system .its really interesting and moreover this exam is externals and we do not have theory exam for this partcular subject.  HAPPY LEARNING
+Hello this is my first git lab and in this lab we ahve learnt set of commands that can be used in linux opertaing system .its really interesting and moreover this exam is externals and we do not have theory exam for this partcular subject.  HAPPY LEARNINg thsis is our first git experiment
