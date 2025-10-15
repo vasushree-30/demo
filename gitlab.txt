@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+<<<<<<< HEAD 
 this is new file which was created in order to know practice the testing of commands and also to remember all the commands ..keep learning and keep exploring
 this is an other attempt to switch between two branches and make changes in that and then if we merge with the main branch then we have to first get into it today was really very good and we had soft skill class
 =======
 this is another file in feature branch which has been created
->>>>>>> feature-branch
+>>>>>>> feature-branch keep learning and keep exploring
