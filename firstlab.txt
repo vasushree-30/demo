@@ -1,1 +1,1 @@
-Hello this is my first git lab and in this lab we ahve learnt set of commands that can be used in linux opertaing system .its really interesting and moreover this exam is externals and we do not have theory exam for this partcular subject.  HAPPY LEARNINg thsis is our first git experiment  there are some changes to be made today is the another day of git whre we are gonna exlore various things how exactly we are gonna push our projects from git bash to git hub
+this is our third experiment of git which includes stashing 
