@@ -1,2 +1,3 @@
 Welcome to my first git lab today we had our third git class 
-good evening happy wednesday
+good evening happy wednesday 
+this is our first experiment
