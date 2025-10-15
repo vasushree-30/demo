@@ -1,1 +1,2 @@
-Welcome to my first git lab
+Welcome to my first git lab today we had our third git class 
+good evening happy wednesday
