@@ -1,1 +1,3 @@
  this is a practice session for git
+
+ Hard work is the key for success
